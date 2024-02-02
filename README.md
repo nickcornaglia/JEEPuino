@@ -1,2 +1,2 @@
 # JEEPuino
-an arduino based jeep accessory switch
+an arduino based Jeep accessory switch
